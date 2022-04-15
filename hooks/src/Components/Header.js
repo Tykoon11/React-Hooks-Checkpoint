@@ -9,7 +9,7 @@ const Header = ({ handleChange, handleSearch }) => {
     <div>
       <nav className="navbar navbar-dark bg-primary">
         <div className="container-fluid">
-          <p className="navbar-brand">Navbar</p>
+          <p className="navbar-brand">TYKOON</p>
           <form class="d-flex">
             <input
               className="form-control me-2"
