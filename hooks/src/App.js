@@ -37,17 +37,17 @@ function App() {
 },
 {
     id: 5,
-    title: 'Expendables',
-    description: "IBarney assembles a new and younger team to capture Stonebanks, a co-founder of the Expendables. However, Stonebanks ends up capturing the new team and challenges an escaped Barney to save them.",
-    posterURL: '../images/expendables.jpeg',
-    rating: 3
+    title: 'Spider man',
+    description: "Peter Parker's life changes when he is bitten by a genetically altered spider and gains superpowers. He finds himself facing the Green Goblin, an evil maniac.",
+    posterURL: '../images/spidey.jpeg',
+    rating: 4
 },
 {
     id: 6,
     title: 'King kong',
     description: 'King Kong and Godzilla go head-to-head in an epic battle of the beast when the giant gorilla escapes from captivity in Japan and squares up to the recently thawed lizard.',
     posterURL: '../images/kong.jpg',
-    rating: 4
+    rating: 3
 }
   ])
 
